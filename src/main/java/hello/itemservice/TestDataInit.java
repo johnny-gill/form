@@ -14,7 +14,7 @@ public class TestDataInit {
     private final ItemRepository itemRepository;
 
     /**
-     * 테스트용 데이터 추가
+     * 테스트용 데이터 추가d
      */
     @PostConstruct
     public void init() {
